@@ -25,7 +25,7 @@ JINS MEME ACADEMIC PACK公式アプリの「DataLogger」の簡易体験版で�
 
        ※こちらは公式版についても修正したい．
 
- - グラフの色（Acc, gyroについては現状でOK)
+- グラフの色（Acc, gyroについては現状でOK)
    ・EOGの「Left」，「Right」は初期状態ではチェックボックスを外す
      ⇒つまり表示させないようにしたいです．
     ・EOG：DeltaHの色を「赤」へ．Accの[X-ais]の色と同じ色

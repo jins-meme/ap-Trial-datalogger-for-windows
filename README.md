@@ -29,9 +29,10 @@ JINS MEME ACADEMIC PACK公式アプリの「DataLogger」の簡易体験版で�
    ・EOGの「Left」，「Right」は初期状態ではチェックボックスを外す
      ⇒つまり表示させないようにしたいです．
     ・EOG：DeltaHの色を「赤」へ．Accの[X-ais]の色と同じ色
+    
+- 実行ファイルの名前を決める「JINS_MEME_DataLogger_Trial.exe」
 　　
 
 # 修正依頼まだだけど修正したい部分（上間用備忘録）
 - iConでトライアルということがわかるようにしたい
-- 実行ファイルの名前を決める「JINS_MEME_DataLogger_Trial.exe」
 

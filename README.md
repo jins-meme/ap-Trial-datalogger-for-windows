@@ -5,29 +5,25 @@ Trial version of the Academic Pack datalogger for windows
 JINS MEME Academic Pack専用です。
 JINS MEME ACADEMIC PACK公式アプリの「DataLogger」の簡易体験版です．
 
-### 簡易体験版で制限されている機能
+### 簡易体験版で「JINS_MEME_DataLogger_Trial.exe」制限されている機能
 - 連続計測時間：最長２分
 - 所望の時刻でデータにアーチファクトを加える「Free Marking」機能が利用できません．
 - csv保存なし
 - 計測データ再生機能は利用できません．
- 
-
-# 修正対応中（メモです．）
-- 同じく添付の「Settings(S)」部分を押せないようにしていただけますか？
- csvは保存できないので，保存先の決めるのは不要かと考えています．
- 
-- 実行ファイルを開いたタイミングでの初期設定
-    ・設定パラメータのデフォルト値      
+- 実行ファイルを開いたタイミングでのパラメータ初期設定は以下
       - Select mode : Full
       - Transmission speed : 100Hz
       - Measurment range of Accelerometer : 2g
       - Measurement range of Gyroscope : 250dps
+ 
+- 「Settings(S)」部分を押せない
 
-       ※こちらは公式版についても修正したい．
-    
-- 実行ファイルの名前を決める「JINS_MEME_DataLogger_Trial.exe」
+
+# 修正依頼中（メモです．）
+- Stop Measuremntを押したら，積算計測時間をリフレッシュしたい
+　⇒最長120秒の連続計測可能だが，0<計測時間＝mTime＜120sで一度ストップし，スタートすろと 120-mTime分しか連続計測できない．
+　
 　　
-
 # 修正依頼まだだけど修正したい部分（上間用備忘録）
 - iConでトライアルということがわかるようにしたい
 

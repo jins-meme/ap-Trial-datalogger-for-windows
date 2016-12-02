@@ -8,10 +8,10 @@ JINS MEME ACADEMIC PACK公式ソフトウェア「DataLogger」の簡易体験�
 ### 体験版ソフトの使い方
 JINS MEME ACADEMIC PACK本体，ドングル，Windows PC（OS 8.1以上）をご用意ください．
 
-JINS_MEME_DataLogger_Trialの中にあるJINS_MEME_DataLogger_limited.exeを実行してください．<br>
+JINS_MEME_DataLogger_Trialをダウンロードし，フォルダ内にあるJINS_MEME_DataLogger_limited.exeを実行してください．<br>
 ※JINS_MEME_DataLogger_Trialに含まれる他のファイルは同じディレクトリ内にある必要があります．
 
-JINS MEME ACADEMIC PACK，専用ドングル，体験版ソフトの接続は以下をご参考にください．<br>
+以下の頁を参考にJINS MEME ACADEMIC PACK，ドングル，体験版ソフトの接続を確立してください．<br>
 https://jins-meme.github.io/apdoc/with-pc/connecting.html
 
 ### 簡易体験版で「JINS_MEME_DataLogger_Trial.exe」は機能が以下のように制限されています．

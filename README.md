@@ -1,8 +1,7 @@
-### ap-Trial-datalogger-for-windows
-Trial version of the Academic Pack datalogger for windows
-
-### ソフト説明
+### About Software
 JINS MEME ACADEMIC PACK公式ソフトウェア「DataLogger」の簡易体験版です．
+
+Trial version of the Academic Pack datalogger for windows
 
 
 ### 体験版ソフトの使い方

@@ -12,7 +12,7 @@ Trial version of the Academic Pack datalogger for windows
    https://jins-meme.github.io/apdoc/with-pc/connecting.html
 
 <br>
-## 簡易体験版で「JINS_MEME_DataLogger_Trial.exe」は機能が以下のように制限されています．
+## 簡易体験版「JINS_MEME_DataLogger_Trial.exe」では機能が以下のように制限されています．
 - 連続計測時間：最長２分
 - 所望の時刻でデータにアーチファクトを加える「Free Marking」機能が利用できません．
 - csvで記録する機能はございません．
